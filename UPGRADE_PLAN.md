@@ -284,13 +284,27 @@ AI confidence modifier:
 
 ## TP / SL Progression
 
+**Core rule: follow the signal's SL strictly. Do NOT move SL prematurely. Premature SL moves cause small losses on trades that would have been full winners.**
+
 Signal with 4 TPs → 4 equal sub-lots placed simultaneously:
 ```
-Lot 1: SL=original, TP=TP1    → closes at TP1, triggers: move SL of lots 2,3,4 to breakeven
-Lot 2: SL=original, TP=TP2    → closes at TP2, triggers: move SL of lots 3,4 to TP1
-Lot 3: SL=original, TP=TP3    → closes at TP3, triggers: move SL of lot 4 to TP2
-Lot 4: SL=original, TP=TP4    → run to final target
+Lot 1: SL=original, TP=TP1    → closes at TP1 naturally. NO SL change yet — let trade breathe.
+Lot 2: SL=original, TP=TP2    → closes at TP2. NOW move SL of lots 3,4 to breakeven (entry).
+Lot 3: SL=original→BE, TP=TP3 → closes at TP3. Move SL of lot 4 to TP1.
+Lot 4: SL→TP1, TP=TP4         → run to final target.
 ```
+
+**SL movement rules:**
+- SL moves ONLY when a TP level is hit — never based on time, momentum, or Claude's "feeling"
+- TP1 hit → partial profit booked, original SL stays on remaining lots (no SL change)
+- TP2 hit → move remaining SL to breakeven (entry price) — first protection point
+- TP3 hit → move remaining SL to TP1 — locks real profit
+- Claude's reassess loop may only recommend CLOSE_ALL (e.g. news risk, reversal signal from provider) — never arbitrary SL tightening
+
+**What Claude's monitor loop is allowed to do:**
+- HOLD — do nothing (default)
+- CLOSE_ALL — emergency exit only (strong counter-signal, news event, provider reversal message)
+- MODIFY_SL — only to implement the TP-triggered progression above, not based on price action feel
 
 Monitor detects TP hits by comparing current MT5 position list against DB `active_positions`. When a ticket disappears from MT5 positions, it closed — check if TP or SL.
 
@@ -305,15 +319,31 @@ Context Claude receives:
 - History: win rate last 10 signals, current open positions count
 - Rules: daily limit %, drawdown limit %, initial balance
 
-Claude outputs JSON:
+**Hard constraint baked into system prompt:** "You must follow the signal provider's SL and TP levels exactly as given. You are NOT allowed to move the SL or tighten it based on price action or momentum. The only SL modifications allowed are the TP-triggered progressions defined in the system rules (BE after TP2, TP1 after TP3). Your job at signal evaluation is: TRADE or SKIP and what lot size. Your job during monitoring is: HOLD or CLOSE_ALL (emergency only)."
+
+Claude signal evaluation outputs JSON:
 ```json
 {
   "action": "TRADE",
   "lot_size": 0.02,
-  "adjusted_sl": null,
   "reasoning": "ADX 28 confirms trend strength, NY session opening, budget $55 remaining, risking $18 (33% of budget). High confidence.",
   "confidence": 0.88,
   "risk_flags": []
+}
+```
+
+Claude monitor reassessment outputs JSON:
+```json
+{
+  "action": "HOLD",
+  "reasoning": "Trade progressing normally toward TP2. No counter-signals. Hold."
+}
+```
+or:
+```json
+{
+  "action": "CLOSE_ALL",
+  "reasoning": "Provider posted reversal signal on same pair. Closing to avoid full SL."
 }
 ```
 
