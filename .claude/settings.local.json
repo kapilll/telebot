@@ -10,7 +10,12 @@
       "Bash(dir *)",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git config *)"
+      "Bash(git config *)",
+      "Bash(gh auth *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(wsl git *)",
+      "Bash(wsl *)"
     ]
   }
 }

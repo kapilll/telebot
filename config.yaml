@@ -1,21 +1,20 @@
 trading:
-  dry_run: true          # SET TO false ONLY when ready to live trade
-  risk_percent: 1.0
-  max_lot_size: 5.0
-  min_lot_size: 0.01
-  lot_step: 0.01
-  slippage: 10
+  dry_run: true                        # SET false only when MT5 tested on demo
   magic_number: 20240101
+  slippage: 10
+  min_lot_size: 0.01
+  max_lot_size: 0.05                   # hard cap — raise as account grows
+  lot_step: 0.01
+  limit_order_timeout_minutes: 15      # cancel unfilled limits after this
 
-confirmation:
-  timeout_seconds: 30
-
-signal_channel: "-1002760637066"
+signal_channels:
+  - "-1002760637066"                   # VIP PREMIUM SIGNAL SERVICE
+  - "@Pips_Profit_67"                  # Pips Profit
 
 accounts:
   - name: "FundingPips #1"
     login: 12226465
-    server: "FundingPips2-SIM"
+    server: "FundingPips2-SIM"         # change to live server when ready
     path: "C:/MT5_Account1/terminal64.exe"
     enabled: true
   - name: "FundingPips #2"
@@ -23,6 +22,23 @@ accounts:
     server: "FundingPips2-SIM"
     path: "C:/MT5_Account2/terminal64.exe"
     enabled: true
+
+risk:
+  daily_loss_limit_pct: 6.0           # FundingPips hard rule
+  min_remaining_chances: 3            # keep budget for this many more SL hits
+  initial_balance: 5000
+
+ai:
+  model_monitor: "claude-haiku-4-5-20251001"
+  monitor_interval_seconds: 10        # mechanical MT5 poll
+  ai_review_interval_seconds: 30      # Claude Haiku open-trade review
+
+tp_split:
+  weights:
+    1_tp: [1.0]
+    2_tp: [0.50, 0.50]
+    3_tp: [0.40, 0.35, 0.25]
+    4_tp: [0.30, 0.25, 0.25, 0.20]
 
 logging:
   level: "INFO"

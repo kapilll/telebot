@@ -1,42 +1,54 @@
 def calculate_lot_size(
     balance: float,
-    risk_percent: float,
+    daily_loss_limit_pct: float,
+    daily_pnl: float,
     entry: float,
     stop_loss: float,
-    symbol: str,
     min_lot: float,
     max_lot: float,
     lot_step: float,
+    min_remaining_chances: int = 3,
 ) -> float:
     """
-    Calculate lot size based on risk management.
-
-    For XAUUSD (gold): 1 lot = 100 oz, $1 price move = $100 per lot
-    For other symbols: uses fallback formula
-
-    Args:
-        balance: Account balance in USD
-        risk_percent: Risk percentage (e.g., 2 for 2%)
-        entry: Entry price
-        stop_loss: Stop loss price
-        symbol: Trading symbol (e.g., "XAUUSD")
-        min_lot: Minimum lot size allowed
-        max_lot: Maximum lot size allowed
-        lot_step: Lot size step (e.g., 0.01)
-
-    Returns:
-        Calculated and rounded lot size, clamped to [min_lot, max_lot]
+    Size lots so that min_remaining_chances more SL hits still fit in the daily budget.
+    daily_pnl: positive = profit today, negative = loss today.
     """
-    risk_usd = balance * risk_percent / 100
     sl_distance = abs(entry - stop_loss)
+    if sl_distance == 0:
+        raise ValueError(f"SL distance is zero: entry={entry} stop_loss={stop_loss}")
 
-    if symbol.upper() == "XAUUSD":
-        lot_size = risk_usd / (sl_distance * 100)
-    else:
-        lot_size = risk_usd / (sl_distance * 100)
+    daily_budget_total = balance * daily_loss_limit_pct / 100
+    daily_budget_remaining = daily_budget_total + daily_pnl  # daily_pnl negative shrinks this
 
-    rounded_lot_size = round(lot_size / lot_step) * lot_step
+    if daily_budget_remaining <= 0:
+        return 0.0
 
-    clamped_lot_size = max(min_lot, min(rounded_lot_size, max_lot))
+    risk_per_trade = daily_budget_remaining / min_remaining_chances
 
-    return clamped_lot_size
+    # XAUUSD: 1 lot = $100 per 1-unit price move
+    lot_size = risk_per_trade / (sl_distance * 100)
+    lot_size = round(lot_size / lot_step) * lot_step
+    return max(min_lot, min(lot_size, max_lot))
+
+
+def adjust_lots_for_tp_split(
+    base_lot: float,
+    weights: list,
+    min_lot: float,
+    lot_step: float,
+) -> list:
+    """
+    Split base_lot across TP levels by weight.
+    Drops the lowest-weight TPs if their sub-lot falls below min_lot.
+    Returns list of (tp_index, sub_lot) pairs.
+    """
+    active = list(enumerate(weights))
+    while active:
+        sub_lots = [
+            (i, max(min_lot, round(base_lot * w / lot_step) * lot_step))
+            for i, w in active
+        ]
+        if all(sl >= min_lot for _, sl in sub_lots):
+            return sub_lots
+        active = active[:-1]  # drop lowest-weight TP
+    return [(0, min_lot)]
