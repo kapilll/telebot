@@ -1,0 +1,9 @@
+telethon
+python-telegram-bot>=20
+anthropic
+MetaTrader5
+pyyaml
+python-dotenv
+aiosqlite
+pandas
+tabulate

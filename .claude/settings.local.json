@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -c \"import anthropic; import pandas\")",
+      "Bash(python -c \"import MetaTrader5\")",
+      "Bash(python main.py)",
+      "Bash(python test_parser.py)",
+      "Bash(python *)",
+      "Bash(dir *)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git config *)"
+    ]
+  }
+}

@@ -1,0 +1,1108 @@
+Output saving to: test_parser_output_20260520_115038.txt
+
+Please enter your phone (or bot token): Please enter the code you received: Signed in successfully as tony shark; remember to not break the ToS or you will risk an account ban!
+
+Fetching last 100 messages from channel: -1002760637066
+============================================================
+Got 100 messages
+
+
+--- Message 2706 (2026-05-14 06:46) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2707 (2026-05-14 06:48) ---
+TEXT: **4702 DONE WOW **🔥🔥
+  CLEANED: 4702 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2708 (2026-05-14 06:48) ---
+TEXT: **RUNNING IN 170+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 170+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2709 (2026-05-14 07:27) ---
+TEXT: **4705 DONE WOW **🔥🔥
+  CLEANED: 4705 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2710 (2026-05-14 07:28) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2711 (2026-05-14 07:50) ---
+TEXT: **4719 DONE WOW **🔥🔥
+  CLEANED: 4719 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2712 (2026-05-14 07:50) ---
+TEXT: **RUNNING IN 340+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 340+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2713 (2026-05-14 13:36) ---
+TEXT: 📉**XAUUSD BUY 4680-4675
+
+****❌****Stop Loss   : 4665
+
+****📊****Take profit : 4685
+****📊****Take profit : 4690
+****📊****Take profit : 4695
+****📊****Take profit : 4700
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4680-4675
+
+ ❌ Stop Loss   : 4665
+
+ 📊 Take profit : 4685
+ 📊 Take profit : 4690
+ 📊 Take profit : 4695
+ 📊 Take profit : 4700
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4677.5
+     SL:        4665.0
+     TPs:       [4685.0, 4690.0, 4695.0, 4700.0]
+     Confidence:0.95
+
+--- Message 2714 (2026-05-14 13:38) ---
+TEXT: **ACTIVE**
+  CLEANED: ACTIVE
+  ⏭  Not a signal
+
+--- Message 2715 (2026-05-14 13:38) ---
+TEXT: **ALMOST 4685 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4685 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2716 (2026-05-14 13:38) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2717 (2026-05-14 13:46) ---
+TEXT: **50+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 50+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2718 (2026-05-14 13:46) ---
+TEXT: **BOOK UPPER ENTRY SET LOWER AS BE**💥💥
+  CLEANED: BOOK UPPER ENTRY SET LOWER AS BE 💥💥
+  ⏭  Not a signal
+
+--- Message 2719 (2026-05-14 13:46) ---
+TEXT: 7**0+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 7 0+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2720 (2026-05-14 13:47) ---
+TEXT: **100+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 100+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2721 (2026-05-14 13:48) ---
+TEXT: **120+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 120+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2722 (2026-05-14 13:50) ---
+TEXT: **4690 DONE WOW **🔥🔥
+  CLEANED: 4690 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2723 (2026-05-14 13:50) ---
+TEXT: **TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2724 (2026-05-14 14:20) ---
+TEXT: **4695 DONE WOW **🔥🔥
+  CLEANED: 4695 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2725 (2026-05-14 14:20) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2728 (2026-05-14 14:22) ---
+TEXT: **4700 DONE WOW **🔥🔥
+  CLEANED: 4700 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2729 (2026-05-14 14:22) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2731 (2026-05-15 06:06) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2732 (2026-05-15 06:29) ---
+TEXT: 📉**XAUUSD SELL 4578-4583
+
+****❌****Stop Loss   : 4593
+
+****📊****Take profit : 4573
+****📊****Take profit : 4568
+****📊****Take profit : 4563
+****📊****Take profit : 4558
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4578-4583
+
+ ❌ Stop Loss   : 4593
+
+ 📊 Take profit : 4573
+ 📊 Take profit : 4568
+ 📊 Take profit : 4563
+ 📊 Take profit : 4558
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4580.5
+     SL:        4593.0
+     TPs:       [4573.0, 4568.0, 4563.0, 4558.0]
+     Confidence:0.95
+
+--- Message 2733 (2026-05-15 06:36) ---
+TEXT: **40+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 40+ PIPS RUNNING IN PROFIT 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2734 (2026-05-15 06:37) ---
+TEXT: **4571 DONE WOW **🔥🔥
+  CLEANED: 4571 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2735 (2026-05-15 06:37) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2736 (2026-05-15 06:38) ---
+TEXT: **70+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 70+ PIPS RUNNING IN PROFIT 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2737 (2026-05-15 06:44) ---
+TEXT: **4568 DONE WOW **🔥🔥
+  CLEANED: 4568 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2738 (2026-05-15 06:45) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2739 (2026-05-15 06:49) ---
+TEXT: **4564 DONE WOW **🔥🔥
+  CLEANED: 4564 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2740 (2026-05-15 06:50) ---
+TEXT: **140+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 140+ PIPS RUNNING IN PROFIT 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2741 (2026-05-15 08:10) ---
+TEXT: **4557 DONE WOW **🔥🔥
+  CLEANED: 4557 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2742 (2026-05-15 08:11) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2743 (2026-05-15 08:11) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2744 (2026-05-15 10:12) ---
+TEXT: 📉**XAUUSD SELL 4560-4565
+
+****❌****Stop Loss   : 4575
+
+****📊****Take profit : 4555
+****📊****Take profit : 4550
+****📊****Take profit : 4545
+****📊****Take profit : 4540
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4560-4565
+
+ ❌ Stop Loss   : 4575
+
+ 📊 Take profit : 4555
+ 📊 Take profit : 4550
+ 📊 Take profit : 4545
+ 📊 Take profit : 4540
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4562.5
+     SL:        4575.0
+     TPs:       [4555.0, 4550.0, 4545.0, 4540.0]
+     Confidence:0.95
+
+--- Message 2745 (2026-05-15 10:26) ---
+TEXT: **4554 DONE WOW **🔥🔥
+  CLEANED: 4554 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2746 (2026-05-15 10:26) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2747 (2026-05-15 11:49) ---
+TEXT: **4550 DONE WOW **🔥🔥
+  CLEANED: 4550 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2748 (2026-05-15 11:49) ---
+TEXT: **TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2749 (2026-05-15 12:05) ---
+TEXT: **4546 DONE WOW **🔥🔥
+  CLEANED: 4546 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2750 (2026-05-15 12:06) ---
+TEXT: **190+ PIPS HIT FROM UPPER ENTRY** **4565**🔥🔥
+  CLEANED: 190+ PIPS HIT FROM UPPER ENTRY 4565 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2751 (2026-05-15 13:22) ---
+TEXT: **4536 DONE WOW **🔥🔥
+  CLEANED: 4536 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2752 (2026-05-15 13:22) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2753 (2026-05-15 13:22) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2754 (2026-05-15 19:22) ---
+TEXT: **🟥 Today marks the final day of Jerome Powell as Chair of the Federal Reserve — the end of one of the most consequential eras in modern monetary policy.
+
+From historic inflation battles and aggressiv
+  CLEANED: 🟥 Today marks the final day of Jerome Powell as Chair of the Federal Reserve — the end of one of the most consequential eras in modern monetary policy.
+
+From historic inflation battles and aggressive rate hikes to banking stress, geopolitical uncertainty, and extreme market volatility, Powell’s tenu
+  ⏭  Not a signal
+
+--- Message 2755 (2026-05-18 01:54) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2756 (2026-05-18 01:55) ---
+TEXT: 📉**XAUUSD SELL 4535-4540
+
+****❌****Stop Loss   : 4550
+
+****📊****Take profit : 4530
+****📊****Take profit : 4525
+****📊****Take profit : 4520
+****📊****Take profit : 4515
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4535-4540
+
+ ❌ Stop Loss   : 4550
+
+ 📊 Take profit : 4530
+ 📊 Take profit : 4525
+ 📊 Take profit : 4520
+ 📊 Take profit : 4515
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4537.5
+     SL:        4550.0
+     TPs:       [4530.0, 4525.0, 4520.0, 4515.0]
+     Confidence:0.95
+
+--- Message 2757 (2026-05-18 02:04) ---
+TEXT: **40+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 40+ PIPS RUNNING IN PROFIT 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2758 (2026-05-18 02:04) ---
+TEXT: **ALMOST 4530 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4530 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2759 (2026-05-18 02:04) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2760 (2026-05-18 02:08) ---
+TEXT: **ALMOST 4525 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4525 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2761 (2026-05-18 02:08) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2762 (2026-05-18 02:34) ---
+TEXT: **120+ PIPS HIT FROM UPPER ENTRY 4540 BOOK LOWER ENTRY SET UPPER ENTRY AS BE **🔥🔥
+  CLEANED: 120+ PIPS HIT FROM UPPER ENTRY 4540 BOOK LOWER ENTRY SET UPPER ENTRY AS BE 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2763 (2026-05-18 07:28) ---
+TEXT: **ARE YOU READY FOR THE SIGNAL **‼️
+  CLEANED: ARE YOU READY FOR THE SIGNAL ‼️
+  ⏭  Not a signal
+
+--- Message 2764 (2026-05-18 07:32) ---
+TEXT: 📉**XAUUSD SELL 4560-4565
+
+****❌****Stop Loss   : 4575
+
+****📊****Take profit : 4555
+****📊****Take profit : 4550
+****📊****Take profit : 4545
+****📊****Take profit : 4540
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4560-4565
+
+ ❌ Stop Loss   : 4575
+
+ 📊 Take profit : 4555
+ 📊 Take profit : 4550
+ 📊 Take profit : 4545
+ 📊 Take profit : 4540
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4562.5
+     SL:        4575.0
+     TPs:       [4555.0, 4550.0, 4545.0, 4540.0]
+     Confidence:0.95
+
+--- Message 2765 (2026-05-18 07:33) ---
+TEXT: **4555 DONE WOW **🔥🔥
+  CLEANED: 4555 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2766 (2026-05-18 07:33) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2767 (2026-05-18 07:35) ---
+TEXT: **4553 DONE WOW **🔥🔥
+  CLEANED: 4553 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2768 (2026-05-18 07:35) ---
+TEXT: **RUNNING IN 70+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 70+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2769 (2026-05-18 07:41) ---
+TEXT: **4550 DONE WOW **🔥🔥
+  CLEANED: 4550 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2770 (2026-05-18 07:42) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2771 (2026-05-18 07:45) ---
+TEXT: **4548 DONE WOW **🔥🔥
+  CLEANED: 4548 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2772 (2026-05-18 07:45) ---
+TEXT: **RUNNING IN 120+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 120+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2773 (2026-05-18 07:48) ---
+TEXT: **4546 DONE WOW **🔥🔥
+  CLEANED: 4546 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2774 (2026-05-18 07:48) ---
+TEXT: **RUNNING IN 140+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 140+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2775 (2026-05-18 07:49) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2776 (2026-05-18 07:52) ---
+TEXT: **4540 DONE WOW **🔥🔥
+  CLEANED: 4540 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2777 (2026-05-18 07:53) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2778 (2026-05-18 13:33) ---
+TEXT: 📉**XAUUSD SELL 4580-4585
+
+****❌****Stop Loss   : 4595
+
+****📊****Take profit : 4575
+****📊****Take profit : 4570
+****📊****Take profit : 4565
+****📊****Take profit : 4560
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4580-4585
+
+ ❌ Stop Loss   : 4595
+
+ 📊 Take profit : 4575
+ 📊 Take profit : 4570
+ 📊 Take profit : 4565
+ 📊 Take profit : 4560
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4582.5
+     SL:        4595.0
+     TPs:       [4575.0, 4570.0, 4565.0, 4560.0]
+     Confidence:0.95
+
+--- Message 2779 (2026-05-18 13:35) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2780 (2026-05-18 13:36) ---
+TEXT: **4573 DONE WOW **🔥🔥
+  CLEANED: 4573 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2781 (2026-05-18 13:37) ---
+TEXT: **RUNNING IN 70+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 70+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2782 (2026-05-18 13:42) ---
+TEXT: **4571 DONE WOW **🔥🔥
+  CLEANED: 4571 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2783 (2026-05-18 13:42) ---
+TEXT: **RUNNING IN 90+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 90+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2784 (2026-05-18 13:47) ---
+TEXT: **4563 DONE WOW **🔥🔥
+  CLEANED: 4563 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2785 (2026-05-18 13:47) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2786 (2026-05-18 13:47) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  ⏭  Not a signal
+
+--- Message 2787 (2026-05-18 13:48) ---
+TEXT: **RUNNING IN 170+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 170+ PIPS AMAZING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2788 (2026-05-18 14:08) ---
+TEXT: **4560 DONE WOW **🔥🔥
+  CLEANED: 4560 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2789 (2026-05-18 14:09) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  ⏭  Not a signal
+
+--- Message 2790 (2026-05-19 05:16) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2791 (2026-05-19 08:13) ---
+TEXT: **ARE YOU READY FOR THE SIGNAL **‼️
+  CLEANED: ARE YOU READY FOR THE SIGNAL ‼️
+  ⏭  Not a signal
+
+--- Message 2792 (2026-05-19 08:24) ---
+TEXT: 📉**XAUUSD BUY 4540-4535
+
+****❌****Stop Loss   : 4525
+
+****📊****Take profit : 4545
+****📊****Take profit : 4550
+****📊****Take profit : 4555
+****📊****Take profit : 4560
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4540-4535
+
+ ❌ Stop Loss   : 4525
+
+ 📊 Take profit : 4545
+ 📊 Take profit : 4550
+ 📊 Take profit : 4555
+ 📊 Take profit : 4560
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4537.5
+     SL:        4525.0
+     TPs:       [4545.0, 4550.0, 4555.0, 4560.0]
+     Confidence:0.95
+
+--- Message 2793 (2026-05-19 08:25) ---
+TEXT: **ACTIVE**
+  CLEANED: ACTIVE
+  ⏭  Not a signal
+
+--- Message 2794 (2026-05-19 08:31) ---
+TEXT: **40+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 40+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2795 (2026-05-19 08:32) ---
+TEXT: 5**0+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 5 0+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2796 (2026-05-19 08:32) ---
+TEXT: **BOOK UPPER ENTRY SET LOWER AS BE**
+  CLEANED: BOOK UPPER ENTRY SET LOWER AS BE
+  ⏭  Not a signal
+
+--- Message 2797 (2026-05-19 08:34) ---
+TEXT: **4543 DONE WOW **🔥🔥
+  CLEANED: 4543 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2798 (2026-05-19 08:34) ---
+TEXT: **80+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 80+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2799 (2026-05-19 08:35) ---
+TEXT: **ALMOST** **4545 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4545 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2800 (2026-05-19 08:36) ---
+TEXT: **TP1 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP1 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  ⏭  Not a signal
+
+--- Message 2801 (2026-05-19 08:48) ---
+TEXT: **4548 DONE WOW **🔥🔥
+  CLEANED: 4548 DONE WOW 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2802 (2026-05-19 08:48) ---
+TEXT: **130+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 130+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2803 (2026-05-19 12:01) ---
+TEXT: 📉**XAUUSD BUY 4525-4520
+
+****❌****Stop Loss   : 4510
+
+****📊****Take profit : 4530
+****📊****Take profit : 4535
+****📊****Take profit : 4540
+****📊****Take profit : 4545
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4525-4520
+
+ ❌ Stop Loss   : 4510
+
+ 📊 Take profit : 4530
+ 📊 Take profit : 4535
+ 📊 Take profit : 4540
+ 📊 Take profit : 4545
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4522.5
+     SL:        4510.0
+     TPs:       [4530.0, 4535.0, 4540.0, 4545.0]
+     Confidence:0.95
+
+--- Message 2804 (2026-05-19 12:04) ---
+TEXT: **JUST 10 PIPS BEFORE OUR ZONE MARKET PUMPED**
+  CLEANED: JUST 10 PIPS BEFORE OUR ZONE MARKET PUMPED
+  ⏭  Not a signal
+
+--- Message 2805 (2026-05-19 13:11) ---
+TEXT: **60+ PIPS HIT FROM LOWER ENTRY BOOK UPPER ENTRY AND SET LOWER ENTRY AS BE**
+  CLEANED: 60+ PIPS HIT FROM LOWER ENTRY BOOK UPPER ENTRY AND SET LOWER ENTRY AS BE
+  ⏭  Not a signal
+
+--- Message 2806 (2026-05-19 13:21) ---
+TEXT: **BE HIT WAIT FOR NEXT SET UP**
+  CLEANED: BE HIT WAIT FOR NEXT SET UP
+  ⏭  Not a signal
+
+--- Message 2807 (2026-05-19 13:23) ---
+TEXT: 📈**XAUUSD BUY LIMIT 4505-4500
+
+****❌****Stop Loss   : 4490
+
+****📊****Take profit : 4510
+****📊****Take profit : 4515
+****📊****Take profit : 4520
+****📊****Take profit : 4525
+****📊****Take profit : OPEN
+
+  CLEANED: 📈 XAUUSD BUY LIMIT 4505-4500
+
+ ❌ Stop Loss   : 4490
+
+ 📊 Take profit : 4510
+ 📊 Take profit : 4515
+ 📊 Take profit : 4520
+ 📊 Take profit : 4525
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4502.5
+     SL:        4490.0
+     TPs:       [4510.0, 4515.0, 4520.0, 4525.0]
+     Confidence:0.95
+
+--- Message 2808 (2026-05-19 13:24) ---
+TEXT: ACTIVE
+  ⏭  Not a signal
+
+============================================================
+Done. Found 9 signals out of 100 messages.

@@ -1,0 +1,10 @@
+Backtest run: 2026-05-20 11:48:28
+Output: backtest_results_20260520_114828.txt  |  backtest_results_20260520_114828.json
+
+Period: 2026-02-19 to today (90 days)
+Channel ID: -1002760637066
+
+============================================================
+PHASE 1: Scraping Telegram history & parsing signals
+============================================================
+Please enter your phone (or bot token): 

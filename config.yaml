@@ -1,0 +1,30 @@
+trading:
+  dry_run: true          # SET TO false ONLY when ready to live trade
+  risk_percent: 1.0
+  max_lot_size: 5.0
+  min_lot_size: 0.01
+  lot_step: 0.01
+  slippage: 10
+  magic_number: 20240101
+
+confirmation:
+  timeout_seconds: 30
+
+signal_channel: "-1002760637066"
+
+accounts:
+  - name: "FundingPips #1"
+    login: 12226465
+    server: "FundingPips2-SIM"
+    path: "C:/MT5_Account1/terminal64.exe"
+    enabled: true
+  - name: "FundingPips #2"
+    login: 11937135
+    server: "FundingPips2-SIM"
+    path: "C:/MT5_Account2/terminal64.exe"
+    enabled: true
+
+logging:
+  level: "INFO"
+  log_to_file: true
+  log_file: "tradebot.log"

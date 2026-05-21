@@ -1,0 +1,1740 @@
+Output saving to: test_parser_output_20260518_164713.txt
+
+Please enter your phone (or bot token): Please enter the code you received: Signed in successfully as tony shark; remember to not break the ToS or you will risk an account ban!
+
+Fetching last 100 messages from channel: -1002760637066
+============================================================
+Got 100 messages
+
+
+--- Message 2675 (2026-05-13 06:51) ---
+TEXT: **RUNNING IN 80+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 80+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a trade update (running in profits), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2676 (2026-05-13 06:54) ---
+TEXT: **4702 DONE WOW **🔥🔥
+  CLEANED: 4702 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a celebration of a completed trade or target hit, not a new trade signal. There are no entry price, stop loss, or take profit levels provided.
+  ⏭  Not a signal
+
+--- Message 2677 (2026-05-13 06:54) ---
+TEXT: **TP1 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP1 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **trade update**, not a new signal. It's announcing that Take Profit 1 has been hit and providing commentary on an existing trade's progress. There is no entry price, stop loss, or new trade setup included.
+  ⏭  Not a signal
+
+--- Message 2678 (2026-05-13 06:58) ---
+TEXT: **ALMOST** **4698 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4698 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is celebrating a take profit hit or price level achieved, not presenting a new trade signal. It lacks entry, stop loss, and take profit levels needed for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2679 (2026-05-13 06:58) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and position management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2680 (2026-05-13 09:21) ---
+TEXT: **4690 DONE WOW ****🔥****🔥**
+  CLEANED: 4690 DONE WOW 🔥 🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebration of a completed trade (TP hit), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2681 (2026-05-13 09:22) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **take profit update**, not a new trade signal. It announces a TP4 hit with 200+ pips gained, but contains no entry price, stop loss, or new trade parameters. It's a celebration of a closed trade, not a signal to enter a new position.
+  ⏭  Not a signal
+
+--- Message 2682 (2026-05-13 09:23) ---
+TEXT: 📉**XAUUSD BUY 4685-4680
+
+****❌****Stop Loss   : 4670
+
+****📊****Take profit : 4690
+****📊****Take profit : 4695
+****📊****Take profit : 4700
+****📊****Take profit : 4705
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4685-4680
+
+ ❌ Stop Loss   : 4670
+
+ 📊 Take profit : 4690
+ 📊 Take profit : 4695
+ 📊 Take profit : 4700
+ 📊 Take profit : 4705
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4682.5
+     SL:        4670.0
+     TPs:       [4690.0, 4695.0, 4700.0, 4705.0]
+     Confidence:0.95
+
+--- Message 2683 (2026-05-13 09:36) ---
+TEXT: **4693 DONE WOW **🔥🔥
+  CLEANED: 4693 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade (TP hit), not a new trade signal. It contains no entry price, stop loss, or take profit levels.
+  ⏭  Not a signal
+
+--- Message 2684 (2026-05-13 09:36) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **TP hit update**, not a new trade signal. It confirms that Take Profit 1 has been reached on an existing position, but contains no new entry price, stop loss, or take profit levels for a fresh trade.
+  ⏭  Not a signal
+
+--- Message 2685 (2026-05-13 09:36) ---
+TEXT: **RUNNING IN 80+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 80+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about an update on an existing trade's performance (pips gained), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2686 (2026-05-13 09:46) ---
+TEXT: **4695 DONE WOW **🔥🔥
+  CLEANED: 4695 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a trade completion or price level hit, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2687 (2026-05-13 09:46) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It contains no entry price, stop loss, or new trade setup.
+  ⏭  Not a signal
+
+--- Message 2688 (2026-05-13 09:50) ---
+TEXT: **4697 DONE WOW **🔥🔥
+  CLEANED: 4697 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be commenting on a completed trade or price level hit, not providing a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2689 (2026-05-13 09:50) ---
+TEXT: **RUNNING IN 120+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 120+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about an existing trade's performance (pip update), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2690 (2026-05-13 09:57) ---
+TEXT: **4700 DONE WOW **🔥🔥
+  CLEANED: 4700 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a congratulatory note about a completed trade (likely a take profit hit at 4700), not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2691 (2026-05-13 09:57) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2692 (2026-05-13 10:08) ---
+TEXT: **4705 DONE WOW **🔥🔥
+  CLEANED: 4705 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message announces a price level hit or trade completion, not a new trade signal. It lacks entry, stop loss, and take profit information.
+  ⏭  Not a signal
+
+--- Message 2693 (2026-05-13 10:08) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **take profit update/celebration**, not a new trade signal. It announces that TP4 has been hit with 200+ pips of profit, but contains no entry price, stop loss, or new trade setup.
+  ⏭  Not a signal
+
+--- Message 2694 (2026-05-13 10:10) ---
+TEXT: **4710 DONE WOW **🔥🔥
+  CLEANED: 4710 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade or price level hit, not a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2695 (2026-05-13 10:10) ---
+TEXT: **RUNNING IN 250+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 250+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about an update on an existing trade (pip gains), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2696 (2026-05-14 06:03) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2697 (2026-05-14 06:15) ---
+TEXT: **ARE YOU READY FOR THE SIGNAL **‼️
+  CLEANED: ARE YOU READY FOR THE SIGNAL ‼️
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This is a greeting/announcement, not a trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2698 (2026-05-14 06:17) ---
+TEXT: 📉**XAUUSD BUY 4685-4680
+
+****❌****Stop Loss   : 4670
+
+****📊****Take profit : 4690
+****📊****Take profit : 4695
+****📊****Take profit : 4700
+****📊****Take profit : 4705
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4685-4680
+
+ ❌ Stop Loss   : 4670
+
+ 📊 Take profit : 4690
+ 📊 Take profit : 4695
+ 📊 Take profit : 4700
+ 📊 Take profit : 4705
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4682.5
+     SL:        4670.0
+     TPs:       [4690.0, 4695.0, 4700.0, 4705.0]
+     Confidence:0.95
+
+--- Message 2699 (2026-05-14 06:21) ---
+TEXT: **4690 DONE WOW **🔥🔥
+  CLEANED: 4690 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a celebration of a completed trade or price level hit, not a new trade signal. It lacks the required entry price, stop loss, and take profit fields.
+  ⏭  Not a signal
+
+--- Message 2700 (2026-05-14 06:22) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2701 (2026-05-14 06:28) ---
+TEXT: **4693 DONE WOW **🔥🔥
+  CLEANED: 4693 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a completed trade or take profit hit, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2702 (2026-05-14 06:29) ---
+TEXT: **RUNNING IN 80+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 80+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a trade update (running in profit/pips), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2703 (2026-05-14 06:41) ---
+TEXT: **4695 DONE WOW **🔥🔥
+  CLEANED: 4695 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a celebration of a completed trade or price level hit, not a new trade signal. It lacks the required signal components (entry price, stop loss, and take profit levels).
+  ⏭  Not a signal
+
+--- Message 2704 (2026-05-14 06:41) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2705 (2026-05-14 06:45) ---
+TEXT: **4700 DONE WOW **🔥🔥
+  CLEANED: 4700 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a congratulatory comment about a price level being reached (likely a take profit hit), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2706 (2026-05-14 06:46) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2707 (2026-05-14 06:48) ---
+TEXT: **4702 DONE WOW **🔥🔥
+  CLEANED: 4702 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebration of a take profit hit, not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2708 (2026-05-14 06:48) ---
+TEXT: **RUNNING IN 170+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 170+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a trade update (pips gained), not a new trading signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2709 (2026-05-14 07:27) ---
+TEXT: **4705 DONE WOW **🔥🔥
+  CLEANED: 4705 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade/take profit hit, not a new trading signal.
+  ⏭  Not a signal
+
+--- Message 2710 (2026-05-14 07:28) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is announcing a take profit hit and previous wins, not providing a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2711 (2026-05-14 07:50) ---
+TEXT: **4719 DONE WOW **🔥🔥
+  CLEANED: 4719 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is reporting a completed trade result (4719 likely a price level hit), not a new trade signal. It lacks entry, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2712 (2026-05-14 07:50) ---
+TEXT: **RUNNING IN 340+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 340+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a trade update (pip gains), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2713 (2026-05-14 13:36) ---
+TEXT: 📉**XAUUSD BUY 4680-4675
+
+****❌****Stop Loss   : 4665
+
+****📊****Take profit : 4685
+****📊****Take profit : 4690
+****📊****Take profit : 4695
+****📊****Take profit : 4700
+****📊****Take profit : OPEN
+
+
+****
+  CLEANED: 📉 XAUUSD BUY 4680-4675
+
+ ❌ Stop Loss   : 4665
+
+ 📊 Take profit : 4685
+ 📊 Take profit : 4690
+ 📊 Take profit : 4695
+ 📊 Take profit : 4700
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: BUY
+     Entry:     4677.5
+     SL:        4665.0
+     TPs:       [4685.0, 4690.0, 4695.0, 4700.0]
+     Confidence:0.95
+
+--- Message 2714 (2026-05-14 13:38) ---
+TEXT: **ACTIVE**
+  CLEANED: ACTIVE
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message ("ACTIVE") does not contain a trade signal with entry price, stop loss, and take profit levels. It appears to be a status update or greeting.
+  ⏭  Not a signal
+
+--- Message 2715 (2026-05-14 13:38) ---
+TEXT: **ALMOST 4685 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4685 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is celebrating a price level being hit (4685), not providing a new trade signal. There is no entry price, stop loss, or take profit information included.
+  ⏭  Not a signal
+
+--- Message 2716 (2026-05-14 13:38) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **TP hit update**, not a new trade signal. It reports that Take Profit 1 has been hit and provides a pip update on an existing trade. There is no entry price, stop loss, or new trade setup present.
+  ⏭  Not a signal
+
+--- Message 2717 (2026-05-14 13:46) ---
+TEXT: **50+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 50+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This is a notification about a previous trade hitting pips/profit, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2718 (2026-05-14 13:46) ---
+TEXT: **BOOK UPPER ENTRY SET LOWER AS BE**💥💥
+  CLEANED: BOOK UPPER ENTRY SET LOWER AS BE 💥💥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message does not contain a trade signal with the required fields (entry price, stop loss, and take profit). It appears to be a general instruction or reminder about position management, not a new trade setup.
+  ⏭  Not a signal
+
+--- Message 2719 (2026-05-14 13:46) ---
+TEXT: 7**0+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 7 0+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a profit update (pips hit), not a new trade signal. It contains no entry price, stop loss, or take profit levels.
+  ⏭  Not a signal
+
+--- Message 2720 (2026-05-14 13:47) ---
+TEXT: **100+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 100+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a previous trade result (TP hit/pips gained), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2721 (2026-05-14 13:48) ---
+TEXT: **120+ PIPS HIT FROM LOWER ENTRY **🔥🔥
+  CLEANED: 120+ PIPS HIT FROM LOWER ENTRY 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a pip update/profit notification, not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2722 (2026-05-14 13:50) ---
+TEXT: **4690 DONE WOW **🔥🔥
+  CLEANED: 4690 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a completed trade or target hit, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a signal.
+  ⏭  Not a signal
+
+--- Message 2723 (2026-05-14 13:50) ---
+TEXT: **TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It contains no entry price, stop loss, or new trading instruction.
+  ⏭  Not a signal
+
+--- Message 2724 (2026-05-14 14:20) ---
+TEXT: **4695 DONE WOW **🔥🔥
+  CLEANED: 4695 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade or price level hit, not a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2725 (2026-05-14 14:20) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2728 (2026-05-14 14:22) ---
+TEXT: **4700 DONE WOW **🔥🔥
+  CLEANED: 4700 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a take profit hit or celebration of a completed trade, not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2729 (2026-05-14 14:22) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is announcing a take profit hit (TP4 WIN) and celebrating past results, not providing a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2731 (2026-05-15 06:06) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2732 (2026-05-15 06:29) ---
+TEXT: 📉**XAUUSD SELL 4578-4583
+
+****❌****Stop Loss   : 4593
+
+****📊****Take profit : 4573
+****📊****Take profit : 4568
+****📊****Take profit : 4563
+****📊****Take profit : 4558
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4578-4583
+
+ ❌ Stop Loss   : 4593
+
+ 📊 Take profit : 4573
+ 📊 Take profit : 4568
+ 📊 Take profit : 4563
+ 📊 Take profit : 4558
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4580.5
+     SL:        4593.0
+     TPs:       [4573.0, 4568.0, 4563.0, 4558.0]
+     Confidence:0.95
+
+--- Message 2733 (2026-05-15 06:36) ---
+TEXT: **40+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 40+ PIPS RUNNING IN PROFIT 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about profit updates, not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2734 (2026-05-15 06:37) ---
+TEXT: **4571 DONE WOW **🔥🔥
+  CLEANED: 4571 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a trade completion ("DONE") or tp hit, not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2735 (2026-05-15 06:37) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is an update about a previous trade hitting TP1 (take profit 1), not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2736 (2026-05-15 06:38) ---
+TEXT: **70+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 70+ PIPS RUNNING IN PROFIT 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a profit update, not a new trade signal. It mentions pips running in profit but does not contain entry price, stop loss, or take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2737 (2026-05-15 06:44) ---
+TEXT: **4568 DONE WOW **🔥🔥
+  CLEANED: 4568 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebration of a completed trade (price hit 4568), not a new trade signal. There's no entry price, stop loss, or take profit levels provided.
+  ⏭  Not a signal
+
+--- Message 2738 (2026-05-15 06:45) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **take profit update**, not a new trade signal. It reports that TP2 has been hit and provides trading advice, but contains no entry price, stop loss, or new signal parameters.
+  ⏭  Not a signal
+
+--- Message 2739 (2026-05-15 06:49) ---
+TEXT: **4564 DONE WOW **🔥🔥
+  CLEANED: 4564 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebration of a completed trade (likely a take profit hit), not a new trading signal.
+  ⏭  Not a signal
+
+--- Message 2740 (2026-05-15 06:50) ---
+TEXT: **140+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 140+ PIPS RUNNING IN PROFIT 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a profit update/celebration, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2741 (2026-05-15 08:10) ---
+TEXT: **4557 DONE WOW **🔥🔥
+  CLEANED: 4557 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a congratulatory update about a completed trade (likely a take profit hit), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2742 (2026-05-15 08:11) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2743 (2026-05-15 08:11) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is announcing a take profit hit and past performance, not a new trade signal. It contains no entry price, stop loss, or take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2744 (2026-05-15 10:12) ---
+TEXT: 📉**XAUUSD SELL 4560-4565
+
+****❌****Stop Loss   : 4575
+
+****📊****Take profit : 4555
+****📊****Take profit : 4550
+****📊****Take profit : 4545
+****📊****Take profit : 4540
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4560-4565
+
+ ❌ Stop Loss   : 4575
+
+ 📊 Take profit : 4555
+ 📊 Take profit : 4550
+ 📊 Take profit : 4545
+ 📊 Take profit : 4540
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4562.5
+     SL:        4575.0
+     TPs:       [4555.0, 4550.0, 4545.0, 4540.0]
+     Confidence:0.95
+
+--- Message 2745 (2026-05-15 10:26) ---
+TEXT: **4554 DONE WOW **🔥🔥
+  CLEANED: 4554 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade result (TP hit), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2746 (2026-05-15 10:26) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2747 (2026-05-15 11:49) ---
+TEXT: **4550 DONE WOW **🔥🔥
+  CLEANED: 4550 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a celebration of a completed trade (likely a take profit hit), not a new trade signal. It lacks entry, stop loss, and take profit information.
+  ⏭  Not a signal
+
+--- Message 2748 (2026-05-15 11:49) ---
+TEXT: **TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +150 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It contains no entry price, stop loss, or new trade setup.
+  ⏭  Not a signal
+
+--- Message 2749 (2026-05-15 12:05) ---
+TEXT: **4546 DONE WOW **🔥🔥
+  CLEANED: 4546 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade result, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2750 (2026-05-15 12:06) ---
+TEXT: **190+ PIPS HIT FROM UPPER ENTRY** **4565**🔥🔥
+  CLEANED: 190+ PIPS HIT FROM UPPER ENTRY 4565 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit (190+ pips achieved), not a new trade signal. It's an update on a previous trade's performance.
+  ⏭  Not a signal
+
+--- Message 2751 (2026-05-15 13:22) ---
+TEXT: **4536 DONE WOW **🔥🔥
+  CLEANED: 4536 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a notification about a completed trade (TP hit), not a new trading signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2752 (2026-05-15 13:22) ---
+TEXT: 👑
+**TP3 WIN — 200+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 200+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2753 (2026-05-15 13:22) ---
+TEXT: **👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 250+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is announcing a take profit hit and celebrating past wins, not providing a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2754 (2026-05-15 19:22) ---
+TEXT: **🟥 Today marks the final day of Jerome Powell as Chair of the Federal Reserve — the end of one of the most consequential eras in modern monetary policy.
+
+From historic inflation battles and aggressiv
+  CLEANED: 🟥 Today marks the final day of Jerome Powell as Chair of the Federal Reserve — the end of one of the most consequential eras in modern monetary policy.
+
+From historic inflation battles and aggressive rate hikes to banking stress, geopolitical uncertainty, and extreme market volatility, Powell’s tenu
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This is a news/commentary message about Jerome Powell's tenure at the Federal Reserve and its market implications. It does not contain a trade signal with entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2755 (2026-05-18 01:54) ---
+TEXT: **HELLO EVERYONE GOOD MORNING **🔥🔥
+  CLEANED: HELLO EVERYONE GOOD MORNING 🔥🔥
+  ⏭  Not a signal
+
+--- Message 2756 (2026-05-18 01:55) ---
+TEXT: 📉**XAUUSD SELL 4535-4540
+
+****❌****Stop Loss   : 4550
+
+****📊****Take profit : 4530
+****📊****Take profit : 4525
+****📊****Take profit : 4520
+****📊****Take profit : 4515
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4535-4540
+
+ ❌ Stop Loss   : 4550
+
+ 📊 Take profit : 4530
+ 📊 Take profit : 4525
+ 📊 Take profit : 4520
+ 📊 Take profit : 4515
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4537.5
+     SL:        4550.0
+     TPs:       [4530.0, 4525.0, 4520.0, 4515.0]
+     Confidence:0.95
+
+--- Message 2757 (2026-05-18 02:04) ---
+TEXT: **40+ PIPS RUNNING IN PROFIT **🔥🔥
+  CLEANED: 40+ PIPS RUNNING IN PROFIT 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is reporting on an existing trade's performance (pips in profit), not presenting a new trading signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2758 (2026-05-18 02:04) ---
+TEXT: **ALMOST 4530 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4530 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit being hit (price approaching/reaching 4530), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2759 (2026-05-18 02:04) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **TP hit update**, not a new trade signal. It's notifying about profit-taking on an existing position, not providing entry, stop loss, or new take profit levels for a fresh trade.
+  ⏭  Not a signal
+
+--- Message 2760 (2026-05-18 02:08) ---
+TEXT: **ALMOST 4525 DONE WOW **🔥🔥
+  CLEANED: ALMOST 4525 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is celebrating a take profit hit or price level achievement, not providing a new trade signal with entry, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2761 (2026-05-18 02:08) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trading signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2762 (2026-05-18 02:34) ---
+TEXT: **120+ PIPS HIT FROM UPPER ENTRY 4540 BOOK LOWER ENTRY SET UPPER ENTRY AS BE **🔥🔥
+  CLEANED: 120+ PIPS HIT FROM UPPER ENTRY 4540 BOOK LOWER ENTRY SET UPPER ENTRY AS BE 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is reporting a profit update (120+ pips hit) and position management instructions, not a new trade signal. There is no entry price, stop loss, or take profit structure for a new trade.
+  ⏭  Not a signal
+
+--- Message 2763 (2026-05-18 07:28) ---
+TEXT: **ARE YOU READY FOR THE SIGNAL **‼️
+  CLEANED: ARE YOU READY FOR THE SIGNAL ‼️
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This is a greeting/announcement message, not a trade signal. It lacks the required components: entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2764 (2026-05-18 07:32) ---
+TEXT: 📉**XAUUSD SELL 4560-4565
+
+****❌****Stop Loss   : 4575
+
+****📊****Take profit : 4555
+****📊****Take profit : 4550
+****📊****Take profit : 4545
+****📊****Take profit : 4540
+****📊****Take profit : OPEN
+
+
+***
+  CLEANED: 📉 XAUUSD SELL 4560-4565
+
+ ❌ Stop Loss   : 4575
+
+ 📊 Take profit : 4555
+ 📊 Take profit : 4550
+ 📊 Take profit : 4545
+ 📊 Take profit : 4540
+ 📊 Take profit : OPEN
+
+
+ "It’s not the signal that makes a great trader - it’s how you understand it, manage it, and act on it.” 📌
+  ✅ SIGNAL DETECTED:
+     Symbol:    XAUUSD
+     Direction: SELL
+     Entry:     4562.5
+     SL:        4575.0
+     TPs:       [4555.0, 4550.0, 4545.0, 4540.0]
+     Confidence:0.95
+
+--- Message 2765 (2026-05-18 07:33) ---
+TEXT: **4555 DONE WOW **🔥🔥
+  CLEANED: 4555 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message indicates a take profit hit or celebration of a completed trade, not a new trading signal.
+  ⏭  Not a signal
+
+--- Message 2766 (2026-05-18 07:33) ---
+TEXT: **TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your s
+  CLEANED: TP1 HIT! ✔️ | +50 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a **TP hit update**, not a new trade signal. It reports that Take Profit 1 has been hit on an existing trade, but contains no entry price, stop loss, or new signal parameters.
+  ⏭  Not a signal
+
+--- Message 2767 (2026-05-18 07:35) ---
+TEXT: **4553 DONE WOW **🔥🔥
+  CLEANED: 4553 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebration of a completed trade (TP hit), not a new trading signal. It lacks entry, stop loss, and take profit specifications for a new trade.
+  ⏭  Not a signal
+
+--- Message 2768 (2026-05-18 07:35) ---
+TEXT: **RUNNING IN 70+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 70+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about an update on an existing trade's performance (running in profit), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2769 (2026-05-18 07:41) ---
+TEXT: **4550 DONE WOW **🔥🔥
+  CLEANED: 4550 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade or take profit hit, not a new trade signal. It lacks entry price, stop loss, and take profit levels needed for a signal.
+  ⏭  Not a signal
+
+--- Message 2770 (2026-05-18 07:42) ---
+TEXT: **TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+****🔥****
+
+****Momentum still strong…
+😀 Price heading toward TP2 — stay alert!****
+****💡**** 
+Pro Tip:
+Secure partial profits after TP1 and trail your 
+  CLEANED: TP2 HIT! ✔️ | +100 pips secured  — GOLD Trade 
+ 🔥 
+
+ Momentum still strong…
+😀 Price heading toward TP2 — stay alert! 
+ 💡 
+Pro Tip:
+Secure partial profits after TP1 and trail your stop to protect the remaining position.
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2771 (2026-05-18 07:45) ---
+TEXT: **4548 DONE WOW **🔥🔥
+  CLEANED: 4548 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message appears to be a celebration of a completed trade or price level reached, not a new trade signal. It lacks entry price, stop loss, and take profit levels required for a valid signal.
+  ⏭  Not a signal
+
+--- Message 2772 (2026-05-18 07:45) ---
+TEXT: **RUNNING IN 120+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 120+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a trade update (running profit), not a new trade signal. It lacks entry price, stop loss, and take profit levels.
+  ⏭  Not a signal
+
+--- Message 2773 (2026-05-18 07:48) ---
+TEXT: **4546 DONE WOW **🔥🔥
+  CLEANED: 4546 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is a celebratory update about a completed trade (likely a take profit hit), not a new trade signal. It contains no entry price, stop loss, or take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2774 (2026-05-18 07:48) ---
+TEXT: **RUNNING IN 140+ PIPS AMAZING **🔥🔥
+  CLEANED: RUNNING IN 140+ PIPS AMAZING 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about an existing trade's performance (pip updates), not a new trade signal.
+  ⏭  Not a signal
+
+--- Message 2775 (2026-05-18 07:49) ---
+TEXT: 👑
+**TP3 WIN — 150+ PIPS SECURED ****💰****😀****
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+****Pure accuracy. Pure precision.
+Thank you for trusting our strate
+  CLEANED: 👑
+ TP3 WIN — 150+ PIPS SECURED 💰 😀 
+
+The momentum is still bullish we will book half profit and hold the trade with BE
+.
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy —
+Momentum continues, and bigger wins are coming next 😀 🔥 😀
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a take profit hit and trade management update, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new trade.
+  ⏭  Not a signal
+
+--- Message 2776 (2026-05-18 07:52) ---
+TEXT: **4540 DONE WOW **🔥🔥
+  CLEANED: 4540 DONE WOW 🔥🔥
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is about a completed trade or take profit hit, not a new trade signal. It lacks entry price, stop loss, and take profit levels for a new position.
+  ⏭  Not a signal
+
+--- Message 2777 (2026-05-18 07:53) ---
+TEXT: **👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+****Pure accuracy. Pure precision.
+Thank you for trusting our strategy —****
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming ne
+  CLEANED: 👑 
+TP4 WIN — 200+ PIPS SECURED 💰🚀
+
+ Pure accuracy. Pure precision.
+Thank you for trusting our strategy — 
+📊Book 80% profit 🤑 💰 here guys 🎯 💯 
+
+Momentum continues, and bigger wins are coming next ↗️🔥💎
+  [PARSER ERROR] JSONDecodeError: Extra data: line 4 column 1 (char 25)
+  [RAW RESPONSE] {
+  "is_signal": false
+}
+```
+
+This message is announcing a take profit hit (TP4 WIN) and celebrating past results, not providing a new trade signal. There is no entry price, stop loss, or take profit levels for a new trade.
+  ⏭  Not a signal
+
+============================================================
+Done. Found 7 signals out of 100 messages.

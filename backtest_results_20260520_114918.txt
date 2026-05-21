@@ -1,0 +1,10 @@
+Backtest run: 2026-05-20 11:49:18
+Output: backtest_results_20260520_114918.txt  |  backtest_results_20260520_114918.json
+
+Period: 2026-02-19 to today (90 days)
+Channel ID: -1002760637066
+
+============================================================
+PHASE 1: Scraping Telegram history & parsing signals
+============================================================
+ERROR: Telethon session not authorized. Run main.py first to log in.
