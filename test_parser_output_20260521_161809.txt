@@ -1,0 +1,11 @@
+Output saving to: test_parser_output_20260521_161809.txt
+
+Please enter your phone (or bot token): Please enter the code you received: Signed in successfully as tony shark; remember to not break the ToS or you will risk an account ban!
+
+Fetching last 100 messages from channel: -1002760637066
+============================================================
+Got 100 messages
+
+
+--- Message 2745 (2026-05-15 10:26) ---
+TEXT: **4554 DONE WOW **🔥🔥

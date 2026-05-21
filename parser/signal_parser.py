@@ -68,6 +68,10 @@ Typo/variant examples for follow_up:
 IMPORTANT: Output ONLY the JSON object. No explanation, no markdown fences."""
 
 
+def _clean_telegram_markdown(text: str) -> str:
+    return _clean(text)
+
+
 def _clean(text: str) -> str:
     text = re.sub(r'\*{2,}', ' ', text)
     text = re.sub(r'_{2,}', ' ', text)

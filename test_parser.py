@@ -43,7 +43,8 @@ async def main():
 
     api_id = int(os.getenv("TELEGRAM_API_ID"))
     api_hash = os.getenv("TELEGRAM_API_HASH")
-    channel = config["signal_channel"]
+    channels = config.get("signal_channels", [config.get("signal_channel", "")])
+    channel = channels[0] if channels else ""
     anthropic_key = os.getenv("ANTHROPIC_API_KEY")
 
     parser = SignalParser(anthropic_key)
